@@ -1323,7 +1323,7 @@ Pitch to ICICI Lombard / HDFC ERGO:
 
 <div align="center">
   <a href="https://youtu.be/nD2snI4Tnu8?si=eS5sztT0aibvxodI">
-    <img src="https://img.shields.io/badge/▶_2--Minute_Demo_Video-282828?style=flat-square&logo=youtube&logoColor=white" alt="Video"/>
+    <img src="https://img.shields.io/badge/2--Minute_Demo_Video-282828?style=flat-square&logo=youtube&logoColor=white" alt="Video"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/Dhruvv-16/Hustlr">
