@@ -1263,8 +1263,9 @@ Pitch to ICICI Lombard / HDFC ERGO:
 | Parameter | Value | Rationale |
 |---|---|---|
 | Premium frequency | Weekly deduction | Matches gig worker pay cycle |
-| Price stability | Fixed for 6-month season | Workers can budget reliably |
-| Repricing cycle | Every 6 months | Adjusts for seasonal risk shifts |
+| ISS score update | Weekly | Worker sees progress every week |
+| Price stability | Locked per month | Workers can budget reliably |
+| Repricing cycle | Monthly (4-week rolling average) | Balances responsiveness with fraud detection window |
 | Payout type | Fixed amounts per trigger type | Parametric simplicity |
 
 ### Pool Protection Architecture
