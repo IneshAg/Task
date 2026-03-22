@@ -1327,7 +1327,7 @@ Pitch to ICICI Lombard / HDFC ERGO:
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/Dhruvv-16/Hustlr">
-    <img src="https://img.shields.io/badge/📁_GitHub_Repo-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub_Repo-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
 
